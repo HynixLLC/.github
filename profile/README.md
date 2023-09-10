@@ -20,6 +20,3 @@ You can also check our staff's e-mail at https://hynix.network/staff and contact
 
 Follow us on X @hynixnet
 
-## Our stats
-[![Hynix's GitHub stats](https://github-readme-stats.vercel.app/api?username=HynixLLC&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HynixLLC&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
